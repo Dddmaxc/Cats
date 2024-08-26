@@ -1,6 +1,6 @@
 const button = document.querySelector(".btn")
 const image = document.querySelector(".img")
-const url = "https://aws.random.cat/meow"
+const url = "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
 
 async function featchHandler(){
     try{
